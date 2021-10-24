@@ -14,6 +14,10 @@ To integrate the three modalities more effectively and enable inter-modal learni
 
 We conduct extensive experiments on the Charades-STA and ActivityNet Captions datasets, and show that the proposed method performs favorably against state-of-the-art approaches.
 
+<p align="center">
+<img src="https://github.com/wenz116/DRFT/blob/main/figure/overview.png" width="85%">
+</p>
+
 ## Paper
 
 [End-to-end Multi-modal Video Temporal Grounding](https://arxiv.org/abs/2107.05624) <br />
