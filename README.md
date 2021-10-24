@@ -15,7 +15,7 @@ To integrate the three modalities more effectively and enable inter-modal learni
 We conduct extensive experiments on the Charades-STA and ActivityNet Captions datasets, and show that the proposed method performs favorably against state-of-the-art approaches.
 
 <p align="center">
-<img src="https://github.com/wenz116/DRFT/blob/main/figure/overview.png" width="85%">
+<img src="https://github.com/wenz116/DRFT/blob/main/figure/overview.png">
 </p>
 
 ## Paper
